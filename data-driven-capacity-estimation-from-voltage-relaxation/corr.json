@@ -1,0 +1,10 @@
+{
+  "Cycle": -0.9573113564124882,
+  "SOH_Capacity": 1.0,
+  "Discharge_Energy": 0.9999858600928315,
+  "Avg_Discharge_Voltage": 0.9135828378914909,
+  "Voltage_Variance": 0.9200505685098319,
+  "CC_Charge_Time": 0.9974889273814499,
+  "Internal_Resistance_Proxy": -0.622282205847027,
+  "SOH": 1.0
+}

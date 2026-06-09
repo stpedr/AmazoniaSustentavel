@@ -1,0 +1,9 @@
+﻿# Datasets grandes (>100MB) - limite do GitHub
+datasets/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation/Data/
+data-driven-capacity-estimation-from-voltage-relaxation/Dataset_3_NCM_NCA_battery/Dataset_3_NCM_NCA_battery/
+data-driven-capacity-estimation-from-voltage-relaxation/Dataset_2_NCM_battery/Dataset_2_NCM_battery/CY35-05_1-#2.csv
+data-driven-capacity-estimation-from-voltage-relaxation/Dataset_2_NCM_battery/Dataset_2_NCM_battery/CY35-05_1-#3.csv
+
+# Arquivos gerados / binários pesados
+*.pkl
+*.mat
